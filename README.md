@@ -18,3 +18,4 @@ The data set has:
 * 28 Columns
 * 1383 Rows
 ## Project Flowchart
+<img src='Flowchart (1).png' widht=500 height=1000>
